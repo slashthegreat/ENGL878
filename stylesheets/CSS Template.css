@@ -1,0 +1,42 @@
+p {
+text-align: left;
+font: times-new-roman;
+font-size: 20px;
+color: red;
+text-indent: 50px;
+margin-left: 550px;
+
+}
+
+
+h1 {
+font-family: Zapf-Chancery, cursive;
+text-decoration: underline;
+    
+}
+
+
+p.note /* name of your class here */ {
+color: rgb(255,36,0);  
+line-height: 1.5;
+}
+
+
+div.notes /* name of your class here */ {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;   
+}
+
+
+body /* if you want the background for the whole page, you should use the "body" selector */ {
+background-color: rgb(0,128,128);
+    
+}
+
+img {
+    padding: 25px;
+    width: 500px;
+    float: left;
+}
